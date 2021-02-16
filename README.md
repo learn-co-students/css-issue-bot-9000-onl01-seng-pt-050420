@@ -3,7 +3,7 @@
 ## Problem Statement
 
 Although today's browsers are becoming more capable of accommodating for errors in CSS, some errors are not always caught gracefully. This variable can make it extremely difficult to apply style or layout consistently. What can be done to quickly scan our CSS documents for issues? Let's practice using the W3C's CSS Validator!
-
+  
 ## Objectives 
 1. Change invalid CSS to valid CSS
 
